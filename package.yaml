@@ -1,10 +1,10 @@
 name:                gondola
 version:             0.1.0.0
-github:              "githubuser/gondola"
+github:              "monadicbind/gondola"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2019 Author name here"
+author:              "Sathish Mandapaka"
+maintainer:          "comonadicbind@gmail.com"
+copyright:           "2019 monadicbind"
 
 extra-source-files:
 - README.md
