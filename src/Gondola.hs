@@ -2,7 +2,6 @@ module Gondola where
 
 import Data.List(groupBy)
 
-
 groupPeopleForGondolaRide :: Int -> [Int]-> [[Int]]
 groupPeopleForGondolaRide n input =
   let (a,b) = foldr (foldHelper n) ([],[]) (partitionBasedOnCapacity n input)
